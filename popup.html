@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SnipIt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Code Snippet Saver</h1>
+  <form id="snippetForm">
+    <input type="text" id="title" placeholder="Snippet Title" required>
+    <textarea id="code" placeholder="Enter your code here..." required></textarea>
+    <button type="submit">Save Snippet</button>
+  </form>
+  <button id="downloadAll">Download All Snippets</button>
+  <div id="snippetList"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
