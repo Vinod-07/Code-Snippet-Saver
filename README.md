@@ -41,8 +41,6 @@ For any questions or inquiries, feel free to reach out to me:
 
 - **Email:** vinodreddy4103@gmail.com
 - **GitHub:** [Vinod-07](https://github.com/Vinod-07)
-- **LinkedIn:** [Vinod Reddy P](https://linkedin.com/in/vinod18)
-
 ---
 
 Thank you for using SnipIt! I hope it makes your coding experience more organized and efficient.
